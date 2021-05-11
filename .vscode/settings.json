@@ -1,0 +1,14 @@
+{
+    "emmet.preferences": {
+    
+    },
+    "emmet.extensionsPath": "",
+    "emmet.excludeLanguages": [
+
+        "markdown"
+    ],
+    "emmet.includeLanguages": {
+        "*.erb": "html",
+        "ruby": "html"
+    }
+}
